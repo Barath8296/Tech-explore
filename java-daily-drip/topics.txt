@@ -1,0 +1,63 @@
+# One topic per line, sent in order (one per day). Lines starting with # are ignored.
+# Add, remove or reorder freely. When the list runs out, Claude picks fresh topics on its own.
+
+What actually happens when you type a URL and press Enter
+HTTP methods: GET vs POST vs PUT vs PATCH vs DELETE
+HTTP status codes you'll see every day (200, 201, 400, 401, 403, 404, 500)
+What is a REST API, explained with a restaurant analogy
+JSON: the language backends speak
+Your first Spring Boot app: what @SpringBootApplication really does
+@RestController and @GetMapping: writing your first endpoint
+@PathVariable vs @RequestParam
+Dependency Injection: why Spring creates objects for you
+@Component, @Service, @Repository: same thing, different labels?
+application.properties vs application.yml
+Spring profiles: dev, test and prod configs
+Java records: perfect for DTOs
+Why we don't return Entities directly from APIs (DTO pattern)
+Bean Validation: @NotNull, @Size, @Email with @Valid
+Global error handling with @RestControllerAdvice
+Logging done right: SLF4J levels and what to log
+SQL basics every backend dev needs: SELECT, JOIN, GROUP BY
+Primary keys, foreign keys and indexes in plain words
+JPA and Hibernate: what an ORM does for you
+@Entity, @Id and @GeneratedValue
+Spring Data repositories: queries without writing SQL
+The N+1 query problem (and how to spot it)
+@Transactional: all or nothing
+Lazy vs Eager loading
+Database migrations with Flyway
+Pagination and sorting in Spring Data
+Optional: stop writing null checks everywhere
+Streams API: map, filter, collect in backend code
+equals() and hashCode(): why HashMap cares
+Immutable objects and why they make backends safer
+Exceptions: checked vs unchecked, and when to use each
+Unit testing with JUnit 5: your first test
+Mocking with Mockito: testing a service in isolation
+@WebMvcTest: testing a controller
+@SpringBootTest and Testcontainers: real integration tests
+Authentication vs Authorization
+How passwords should be stored (hashing with BCrypt)
+JWT tokens explained simply
+Spring Security filter chain: the bouncer at the door
+CORS: why the browser blocks your API call
+Caching with @Cacheable: making slow things fast
+Threads vs Virtual Threads (Java 21)
+@Async and @Scheduled: background jobs in Spring
+Idempotency: why retrying a payment shouldn't charge twice
+Retries, timeouts and circuit breakers
+Calling other APIs: RestClient and WebClient
+Message queues: why Kafka/RabbitMQ exist
+Monolith vs Microservices: honest trade-offs
+API versioning strategies
+Rate limiting: protecting your API from floods
+Spring Boot Actuator: health checks and metrics
+Observability: logs, metrics and traces
+Docker for backend devs: containerizing a Spring Boot app
+Environment variables and keeping secrets out of code
+Connection pools: what HikariCP does
+Maven basics: pom.xml, dependencies and the build lifecycle
+Git habits that save backend teams
+Reading a stack trace like a detective
+Big-O in real backend code: why that loop is slow
