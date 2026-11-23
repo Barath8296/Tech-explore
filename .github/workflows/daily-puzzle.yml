@@ -1,4 +1,8 @@
-schedule:
+name: Daily Coding Puzzle
+
+
+on:
+  schedule:schedule:
     - cron: "7 3 * * *"
     - cron: "7 15 * * *"
   workflow_dispatch:
