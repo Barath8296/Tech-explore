@@ -1,7 +1,15 @@
 {
-  "day": 0,
-  "covered": [],
-  "sources": [],
-  "concepts": [],
-  "article_titles": []
+  "day": 1,
+  "covered": [
+    "🌐 Know Your Java Build"
+  ],
+  "sources": [
+    "https://foojay.io/today/which-java-build-are-you-running/"
+  ],
+  "concepts": [
+    "Java build version"
+  ],
+  "article_titles": [
+    "Do You Know Which Java Build You Are Running?"
+  ]
 }
