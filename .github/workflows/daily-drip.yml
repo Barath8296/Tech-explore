@@ -1,3 +1,6 @@
+name: Java Daily Drip
+
+
 on:
   schedule:
     - cron: "23 2 * * *"
