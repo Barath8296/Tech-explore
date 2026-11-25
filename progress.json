@@ -1,8 +1,9 @@
 {
-  "day": 2,
+  "day": 3,
   "covered": [
     "🌐 Know Your Java Build",
-    "🌐 Tool Calling in Spring AI 2.0"
+    "🌐 Tool Calling in Spring AI 2.0",
+    "What actually happens when you type a URL and press Enter"
   ],
   "sources": [
     "https://foojay.io/today/which-java-build-are-you-running/",
