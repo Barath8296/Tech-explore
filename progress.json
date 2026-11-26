@@ -1,20 +1,24 @@
 {
-  "day": 3,
+  "day": 4,
   "covered": [
     "🌐 Know Your Java Build",
     "🌐 Tool Calling in Spring AI 2.0",
-    "What actually happens when you type a URL and press Enter"
+    "What actually happens when you type a URL and press Enter",
+    "🌐 Palantir Code Formatter Guide"
   ],
   "sources": [
     "https://foojay.io/today/which-java-build-are-you-running/",
-    "https://www.baeldung.com/spring-ai-2-tool-calling"
+    "https://www.baeldung.com/spring-ai-2-tool-calling",
+    "https://www.baeldung.com/java-palantir-formatter"
   ],
   "concepts": [
     "Java build version",
-    "AI tool integration"
+    "AI tool integration",
+    "code formatting"
   ],
   "article_titles": [
     "Do You Know Which Java Build You Are Running?",
-    "Intro to Tool Calling in Spring AI 2.0"
+    "Intro to Tool Calling in Spring AI 2.0",
+    "Guide to Palantir Code Formatter"
   ]
 }
