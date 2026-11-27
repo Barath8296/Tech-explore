@@ -1,24 +1,28 @@
 {
-  "day": 4,
+  "day": 5,
   "covered": [
     "🌐 Know Your Java Build",
     "🌐 Tool Calling in Spring AI 2.0",
     "What actually happens when you type a URL and press Enter",
-    "🌐 Palantir Code Formatter Guide"
+    "🌐 Palantir Code Formatter Guide",
+    "🌐 Maven 4 No‑Boilerplate Builds"
   ],
   "sources": [
     "https://foojay.io/today/which-java-build-are-you-running/",
     "https://www.baeldung.com/spring-ai-2-tool-calling",
-    "https://www.baeldung.com/java-palantir-formatter"
+    "https://www.baeldung.com/java-palantir-formatter",
+    "https://foojay.io/today/no-boilerplate-maven-4-builds/"
   ],
   "concepts": [
     "Java build version",
     "AI tool integration",
-    "code formatting"
+    "code formatting",
+    "Maven 4 warnings"
   ],
   "article_titles": [
     "Do You Know Which Java Build You Are Running?",
     "Intro to Tool Calling in Spring AI 2.0",
-    "Guide to Palantir Code Formatter"
+    "Guide to Palantir Code Formatter",
+    "No-Boilerplate, Warning-Free and Reproducible Builds on Maven 4"
   ]
 }
